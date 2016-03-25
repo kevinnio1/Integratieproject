@@ -1,0 +1,20 @@
+1. open Visual Studio
+2. Team Explorer (na het installeren van github)
+3. Bij COnnect (anders op Home klikken en dan projects settings Manage connections)
+4. Op  clone klikken
+5. URL ingeven (https://github.com/kevinnio1/Integratieproject.git)
+6. Map aanduiden waar je de github in wilt
+7. Clone duwen
+8. Branche op development zetten en daar alles op doen
+9. Dan solution openen en werken
+10. Pas als alles werkt
+
+
+Bij veranderen code:
+0. Bij het afsluiten en opstarten moet je 'sync' duwen
+1. Team Explorer -> include changes -> enter message
+2. commit -> Sync rechtsboven
+3. nogmaals sync duwen
+
+
+BRACHES ALTIJD DEVELOPMENT!
