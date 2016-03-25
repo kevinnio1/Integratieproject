@@ -11,5 +11,6 @@ namespace Domain.Locatie
     private int aantalInwoners { get; set; }
     private string regering { get; set; }
     private int postcode { get; set; }
+    private int BrianIsGay { get; set; }
   }
 }
